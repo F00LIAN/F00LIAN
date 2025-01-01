@@ -3,7 +3,6 @@
 <h2>🧑🏼‍🔬 Data Science Projects:</h2>
 
 - <b>Region Intelligence Land Investment Analysis</b>
-
   - [Region Intelligence Lancaster Land Analysis](https://drive.google.com/file/d/1fQdWs5vOd7e91-xgVRszChxEUqSJC94o/view?usp=drive_link)
   
 - <b>Aviation METAR Forecasting</b>
