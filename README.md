@@ -13,6 +13,16 @@
   - [Watch Data Database Upload to MongoDB](https://github.com/F00LIAN/luxury_watch_market/tree/main/etl)
   - [Market Research and Analysis Dashboard](https://github.com/F00LIAN/luxury_watch_market/tree/main/app)
 
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
+- <b>Microsoft Azure</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+
 <h2>🏆 Prior Work Experience Achievements:</h2>
 
 - <b>Best UC Irvine Capstone Visualizations Award 2023: <a href="https://youtu.be/oKuI605eEZc">Tableau Video</a></b>
