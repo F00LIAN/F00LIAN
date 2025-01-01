@@ -22,6 +22,10 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
+- <b>Automating Raspberry Pi System Configuration as a Background Task</b>
+  - [Systemd Service Setup: Tasks, Prerequisites, and Installation]()
+  - [Vim Configuration: Streamlined API Calls]()
+  - [Wrapping Up the Background Service]()
 
 <h2>🏆 Prior Work Experience Achievements:</h2>
 
