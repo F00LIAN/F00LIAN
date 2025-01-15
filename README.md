@@ -14,7 +14,7 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b><span style="color: black;">[**OS-Ticket Help Desk Ticketing System**](https://github.com/F00LIAN/os-ticket-entire-project/blob/main/README.md)</span></b>
+- <span style="color: black;"><b>[**OS-Ticket Help Desk Ticketing System**](https://github.com/F00LIAN/os-ticket-entire-project/blob/main/README.md)</b></span>
   - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
