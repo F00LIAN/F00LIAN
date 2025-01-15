@@ -14,9 +14,9 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>[**OS-Ticket Help Desk Ticketing System**](https://github.com/F00LIAN/os-ticket-entire-project/blob/main/README.md)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/joshmadakorcc/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/joshmadakorcc/post-install-config)
+- <b>[**OS-Ticket Help Desk Ticketing System**](https://github.com/F00LIAN/os-ticket-entire-project)</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/F00LIAN/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/F00LIAN/osticket-post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/joshmadakorcc/ticket-lifecycle)
 - <b>[**Microsoft Azure**](https://github.com/F00LIAN/Microsoft-Azure/blob/main/README.md)</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
