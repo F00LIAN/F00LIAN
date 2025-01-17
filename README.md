@@ -2,13 +2,12 @@
 
 <h2>🧑🏼‍🔬 Data Science Projects:</h2>
 
-- <b>Region Intelligence Land Investment Analysis</b>
+- <b>**Region Intelligence Land Investment Analysis**</b>
   - [Region Intelligence Lancaster Land Analysis](https://drive.google.com/file/d/1fQdWs5vOd7e91-xgVRszChxEUqSJC94o/view?usp=drive_link)
-  
-- <b>Aviation METAR Forecasting</b>
+- <b>**Aviation METAR Forecasting**</b>
   - [METAR Database Upload to MongoDB](https://github.com/F00LIAN/metar_prediction/tree/main/metar_db_upload)
   - [METAR Forecast Model Cleaning, Training, and Deployment](https://github.com/F00LIAN/metar_prediction/tree/main/metar_db_upload)
-- <b>Chrono24 Watch Market Analysis</b>
+- <b>**Chrono24 Watch Market Analysis**</b>
   - [Watch Data Database Upload to MongoDB](https://github.com/F00LIAN/luxury_watch_market/tree/main/etl)
   - [Market Research and Analysis Dashboard](https://github.com/F00LIAN/luxury_watch_market/tree/main/app)
 
