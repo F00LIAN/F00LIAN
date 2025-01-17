@@ -14,14 +14,14 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b>[**OS-Ticket Help Desk Ticketing System**]</b>
+- <b>**OS-Ticket Help Desk Ticketing System**</b>
   - [osTicket: Prerequisites and Installation](https://github.com/F00LIAN/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/F00LIAN/osticket-post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/F00LIAN/osticket-ticket-lifecycle)
-- <b>[**Microsoft Azure**]</b>
+- <b>**Microsoft Azure**</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
-- <b>[**Automating Code with Raspberry Pi**]</b>
+- <b>**Automating Code with Raspberry Pi**</b>
   - [Systemd Service Setup Project #1: Automated System Updates](https://github.com/F00LIAN/raspberrypi-systemd-automation-setup)
   - [Systemd Service Setup Project #2: Automated API Calling](https://github.com/F00LIAN/raspberrypi-streamlined-api-calls)
   - [Systemd Service Setup Project #3: Automated Database Updates](https://github.com/F00LIAN/raspberrypi-wrapping-up-systemd-service)
