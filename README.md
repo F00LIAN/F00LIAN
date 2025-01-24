@@ -26,7 +26,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/F00LIAN/osticket-post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/F00LIAN/osticket-ticket-lifecycle)
 - <b>**Microsoft Azure**</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/F00LIAN/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 - <b>**Automating Code with Raspberry Pi**</b>
   - [Systemd Service Setup Project #1: Automated System Updates](https://github.com/F00LIAN/raspberrypi-systemd-automation-setup)
