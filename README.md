@@ -13,7 +13,7 @@
 - <b>**R Projects**</b>
   - [Auto Manufacturer Customer Segmentation Using Clustering](https://github.com/F00LIAN/Auto-Manufacturer-Customer-Segmentation-With-R)
   - [Regression Analysis on Real Estate Transactions]()
-  - [Visualizing Time Series Data](https://github.com/F00LIAN/Visualizing-Earthquakes-With-R)
+  - [Visualizing Various Time Series Data](https://github.com/F00LIAN/Visualizing-Earthquakes-With-R)
   - [Delta Airlines Text Cleaning and Sentiment Analysis](https://github.com/F00LIAN/Delta-Airlines-Text-Analysis-With-R)
   - [Starbucks Customer Analysis]()
 - <b>**SPSS Projects**</b>
