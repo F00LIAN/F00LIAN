@@ -12,7 +12,7 @@
   - [Market Research and Analysis Dashboard](https://github.com/F00LIAN/luxury_watch_market/tree/main/app)
 - <b>**R Projects**</b>
   - [Auto Manufacturer Customer Segmentation Using Clustering](https://github.com/F00LIAN/Auto-Manufacturer-Customer-Segmentation-With-R)
-  - [Regression Analysis on Real Estate Transactions]()
+  - [Regression Analysis on Real Estate Transactions](https://github.com/F00LIAN/Real-Estate-Regression-Analysis-Using-R)
   - [Visualizing Various Time Series Data](https://github.com/F00LIAN/Visualizing-Data-With-R)
   - [Delta Airlines Text Cleaning and Sentiment Analysis](https://github.com/F00LIAN/Delta-Airlines-Text-Analysis-With-R)
   - [Starbucks Customer Analysis]()
