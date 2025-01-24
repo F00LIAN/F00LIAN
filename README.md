@@ -10,7 +10,15 @@
 - <b>**Chrono24 Watch Market Analysis**</b>
   - [Watch Data Database Upload to MongoDB](https://github.com/F00LIAN/luxury_watch_market/tree/main/etl)
   - [Market Research and Analysis Dashboard](https://github.com/F00LIAN/luxury_watch_market/tree/main/app)
-
+- <b>**R Projects**</b>
+  - [Auto Manufacturer Customer Segmentation Using Clustering](https://github.com/F00LIAN/luxury_watch_market/tree/main/etl)
+  - [Regression Analysis on Real Estate Transactions](https://github.com/F00LIAN/luxury_watch_market/tree/main/app)
+  - [Visualizing Time Series Data](https://github.com/F00LIAN/luxury_watch_market/tree/main/app)
+  - [Delta Airlines Text Cleaning and Sentiment Analysis](https://github.com/F00LIAN/luxury_watch_market/tree/main/app)
+  - [Starbucks Customer Analysis](https://github.com/F00LIAN/luxury_watch_market/tree/main/app)
+- <b>**SPSS Projects**</b>
+  - [Analyzing Housing Data](https://github.com/F00LIAN/luxury_watch_market/tree/main/etl)
+  
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>**OS-Ticket Help Desk Ticketing System**</b>
