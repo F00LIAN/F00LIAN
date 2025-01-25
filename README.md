@@ -38,8 +38,11 @@
 - <b>Best UC Irvine Capstone Visualizations Award 2023: <a href="https://youtu.be/oKuI605eEZc">Tableau Video</a></b>
 - <b>Orange County Business Journal News Recognition for Octane OC: <a href="https://www.ocbj.com/oc-homepage/ai-program-predicts-capital-raising-success/">News Article</b>
 
-<h2>✅ Certifications:</h2>
+<h2>✅ Certifications and Diplomas:</h2>
 
+- <b>MSBA UCI Degree: <a href="https://drive.google.com/file/d/11Hx3tvXvxoibctzkTfcIotJyLH2Br4jB/view?usp=drive_link">Credential Link</a></b>
+- <b>BS in Management CSUF Degree: <a href="https://drive.google.com/file/d/1NDzGqtUum1jNkH5u3Zr6XHSNVOOs1G_x/view?usp=sharing">Credential Link</a></b>
+- <b>Course Careers Information Technology Course: <a href="https://drive.google.com/file/d/1KvoX-IVTI57I1z8oMuC7pKlJ9rcLBCcH/view?usp=drive_link">Credential Link</a></b>
 - <b>Data Science Process Alliance (DSPA): <a href="https://courses.datascience-pm.com/evidence-page/?bg=4703&eid=592&uid=467">Credential Link</a></b>
 
 <h2>🤳Connect with me:</h2>
