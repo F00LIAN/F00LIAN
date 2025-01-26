@@ -2,9 +2,12 @@
 
 <h2>🧑🏼‍🔬 Data Science Projects:</h2>
 
-- <b>**Region Intelligence Land Investment Analysis**</b>
+- <b>**Data Science Consulting Work**</b>
   - [Region Intelligence Lancaster Land Analysis](https://drive.google.com/file/d/1fQdWs5vOd7e91-xgVRszChxEUqSJC94o/view?usp=drive_link)
-- <b>**Aviation METAR Forecasting**</b>
+  - [Cincinatti Reds 2024 Hackathon Challenge]()
+- <b>**Machine Learning Forecasting with Python**</b>
+  - [End to End Aviation Forecasting Project]()
+  - [Stock Market Deep Learning Forecaster]()
   - [METAR Database Upload to MongoDB](https://github.com/F00LIAN/metar_prediction/tree/main/metar_db_upload)
   - [METAR Forecast Model Cleaning, Training, and Deployment](https://github.com/F00LIAN/metar_prediction/tree/main/metar_db_upload)
 - <b>**Chrono24 Watch Market Analysis**</b>
@@ -37,7 +40,7 @@
 <h2>🏆 Prior Work Experience Achievements:</h2>
 
 - <b>Best UC Irvine Capstone Visualizations Award 2023: <a href="https://youtu.be/oKuI605eEZc">Tableau Video</a></b>
-- <b>Orange County Business Journal News Recognition for Octane OC: <a href="https://www.ocbj.com/oc-homepage/ai-program-predicts-capital-raising-success/">News Article</b>
+- <b>Orange County Business Journal ML News Recognition for Octane OC: <a href="https://www.ocbj.com/oc-homepage/ai-program-predicts-capital-raising-success/">News Article</b>
 
 <h2>✅ Certifications and Diplomas:</h2>
 
