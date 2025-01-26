@@ -20,8 +20,7 @@
   - [Delta Airlines Text Cleaning and Sentiment Analysis](https://github.com/F00LIAN/Delta-Airlines-Text-Analysis-With-R)
   - [Starbucks Customer Analysis](https://github.com/F00LIAN/Starbucks-Customer-Analysis-With-R)
 - <b>**SPSS Projects**</b>
-  - [Analyzing Housing Data](https://github.com/F00LIAN/luxury_watch_market/tree/main/etl)
-  - [Drug Classification](https://github.com/F00LIAN/luxury_watch_market/tree/main/etl)
+  - [Cardiovascular Unknown Drug Classification](https://github.com/F00LIAN/cardiovascular-drug-classification-with-spss)
   
 <h2>👨‍💻 Information Technology Projects:</h2>
 
