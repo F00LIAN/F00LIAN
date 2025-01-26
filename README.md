@@ -18,6 +18,7 @@
   - [Starbucks Customer Analysis](https://github.com/F00LIAN/Starbucks-Customer-Analysis-With-R)
 - <b>**SPSS Projects**</b>
   - [Analyzing Housing Data](https://github.com/F00LIAN/luxury_watch_market/tree/main/etl)
+  - [Drug Classification](https://github.com/F00LIAN/luxury_watch_market/tree/main/etl)
   
 <h2>👨‍💻 Information Technology Projects:</h2>
 
