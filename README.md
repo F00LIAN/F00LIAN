@@ -5,11 +5,13 @@
 - <b>**Data Science Consulting Work**</b>
   - [Region Intelligence Lancaster Land Analysis](https://drive.google.com/file/d/1fQdWs5vOd7e91-xgVRszChxEUqSJC94o/view?usp=drive_link)
   - [Cincinatti Reds 2024 Hackathon Challenge]()
-- <b>**Machine Learning Forecasting with Python**</b>
-  - [End to End Aviation Forecasting Project]()
+- <b>**ML Forecasting with Python**</b>
+  - [End to End Aviation METAR Forecasting Project]()
   - [Stock Market Deep Learning Forecaster with RNNs](https://github.com/F00LIAN/stockForecaster)
-  - [METAR Database Upload to MongoDB](https://github.com/F00LIAN/metar_prediction/tree/main/metar_db_upload)
-  - [METAR Forecast Model Cleaning, Training, and Deployment](https://github.com/F00LIAN/metar_prediction/tree/main/metar_db_upload)
+- <b>**ML Recommendation Systems with Python**</b>
+  - [Recipe Recommendations]()
+- <b>**ML NLP with Python**</b>
+  - [Sentiment Analysis of Airlines]()
 - <b>**Chrono24 Watch Market Analysis**</b>
   - [Watch Data Database Upload to MongoDB](https://github.com/F00LIAN/luxury_watch_market/tree/main/etl)
   - [Market Research and Analysis Dashboard](https://github.com/F00LIAN/luxury_watch_market/tree/main/app)
