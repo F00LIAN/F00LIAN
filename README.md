@@ -7,7 +7,7 @@
   - [Cincinatti Reds 2024 Hackathon Challenge]()
 - <b>**Machine Learning Forecasting with Python**</b>
   - [End to End Aviation Forecasting Project]()
-  - [Stock Market Deep Learning Forecaster]()
+  - [Stock Market Deep Learning Forecaster with RNNs](https://github.com/F00LIAN/stockForecaster)
   - [METAR Database Upload to MongoDB](https://github.com/F00LIAN/metar_prediction/tree/main/metar_db_upload)
   - [METAR Forecast Model Cleaning, Training, and Deployment](https://github.com/F00LIAN/metar_prediction/tree/main/metar_db_upload)
 - <b>**Chrono24 Watch Market Analysis**</b>
