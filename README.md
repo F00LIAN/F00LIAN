@@ -20,7 +20,7 @@
   - [Visualizing Various Time Series Data](https://github.com/F00LIAN/Visualizing-Data-With-R)
   - [Delta Airlines Text Cleaning and Sentiment Analysis](https://github.com/F00LIAN/Delta-Airlines-Text-Analysis-With-R)
 - <b>**SPSS Projects**</b>
-  - [Cardiovascular Unknown Drug Classification](https://github.com/F00LIAN/cardiovascular-drug-classification-with-spss)
+  - [Cardiovascular Unknown Drug Classification](https://github.com/F00LIAN/Cardiovascular-Drug-Classification-With-SPSS)
   
 <h2>👨‍💻 Information Technology Projects:</h2>
 
