@@ -8,7 +8,9 @@
   - [End to End Aviation METAR Forecasting Project](https://github.com/F00LIAN/Aviation-METAR-Forecasting)
   - [Stock Market Deep Learning Forecaster with RNNs](https://github.com/F00LIAN/stockForecaster)
 - <b>**NLP and Recommendation Systems with Python**</b>
-  - [Sentiment Analysis of Airlines]()
+  - [Sentiment Analysis of Airlines (Adding Soon)]()
+  - [Amazon Food Reviews Analysis (Adding Soon)]()
+  - [Recipe Recommendation System (Adding Soon)]()
 - <b>**Data Analysis and Research with Python**</b>
   - [End-to-End Chrono24 Luxury Watch Market Analysis](https://github.com/F00LIAN/luxury_watch_market/tree/main/etl)
   - [Cincinatti Reds 2024 Hackathon Challenge](https://github.com/F00LIAN/Reds_Pitching_Hackathon_Team_Mendoza_Line)
