@@ -12,7 +12,7 @@
   - [Amazon Food Reviews Analysis (Adding Soon)]()
   - [Recipe Recommendation System (Adding Soon)]()
 - <b>**Data Analysis and Research with Python**</b>
-  - [End-to-End Chrono24 Luxury Watch Market Analysis](https://github.com/F00LIAN/luxury_watch_market/tree/main/etl)
+  - [End-to-End Chrono24 Luxury Watch Market Analysis](https://github.com/F00LIAN/luxury_watch_market)
   - [Cincinatti Reds 2024 Hackathon Challenge](https://github.com/F00LIAN/Reds_Pitching_Hackathon_Team_Mendoza_Line)
 - <b>**R Projects**</b>
   - [Auto Manufacturer Customer Segmentation Using Clustering](https://github.com/F00LIAN/Auto-Manufacturer-Customer-Segmentation-With-R)
