@@ -20,7 +20,6 @@
   - [Regression Analysis on Real Estate Transactions](https://github.com/F00LIAN/Real-Estate-Regression-Analysis-Using-R)
   - [Visualizing Various Time Series Data](https://github.com/F00LIAN/Visualizing-Data-With-R)
   - [Delta Airlines Text Cleaning and Sentiment Analysis](https://github.com/F00LIAN/Delta-Airlines-Text-Analysis-With-R)
-  - [Starbucks Customer Analysis](https://github.com/F00LIAN/Starbucks-Customer-Analysis-With-R)
 - <b>**SPSS Projects**</b>
   - [Cardiovascular Unknown Drug Classification](https://github.com/F00LIAN/cardiovascular-drug-classification-with-spss)
   
