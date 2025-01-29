@@ -3,18 +3,15 @@
 <h2>🧑🏼‍🔬 Data Science Projects:</h2>
 
 - <b>**Data Science Consulting Work**</b>
-  - [Region Intelligence Lancaster Land Analysis](https://drive.google.com/file/d/1fQdWs5vOd7e91-xgVRszChxEUqSJC94o/view?usp=drive_link)
-  - [Cincinatti Reds 2024 Hackathon Challenge]()
+  - [Region Intelligence Lancaster Land Feasability Analysis](https://drive.google.com/file/d/1fQdWs5vOd7e91-xgVRszChxEUqSJC94o/view?usp=drive_link)
 - <b>**ML Forecasting with Python**</b>
-  - [End to End Aviation METAR Forecasting Project]()
+  - [End to End Aviation METAR Forecasting Project](https://github.com/F00LIAN/Aviation-METAR-Forecasting)
   - [Stock Market Deep Learning Forecaster with RNNs](https://github.com/F00LIAN/stockForecaster)
-- <b>**ML Recommendation Systems with Python**</b>
-  - [Recipe Recommendations]()
 - <b>**ML NLP with Python**</b>
   - [Sentiment Analysis of Airlines]()
-- <b>**Chrono24 Watch Market Analysis**</b>
-  - [Watch Data Database Upload to MongoDB](https://github.com/F00LIAN/luxury_watch_market/tree/main/etl)
-  - [Market Research and Analysis Dashboard](https://github.com/F00LIAN/luxury_watch_market/tree/main/app)
+- <b>**Data Analysis and Research with Python**</b>
+  - [End-to-End Chrono24 Luxury Watch Market Analysis](https://github.com/F00LIAN/luxury_watch_market/tree/main/etl)
+  - [Cincinatti Reds 2024 Hackathon Challenge](https://github.com/F00LIAN/Reds_Pitching_Hackathon_Team_Mendoza_Line)
 - <b>**R Projects**</b>
   - [Auto Manufacturer Customer Segmentation Using Clustering](https://github.com/F00LIAN/Auto-Manufacturer-Customer-Segmentation-With-R)
   - [Regression Analysis on Real Estate Transactions](https://github.com/F00LIAN/Real-Estate-Regression-Analysis-Using-R)
