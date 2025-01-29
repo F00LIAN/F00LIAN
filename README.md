@@ -4,10 +4,10 @@
 
 - <b>**Data Science Consulting Work**</b>
   - [Region Intelligence Lancaster Land Feasability Analysis](https://drive.google.com/file/d/1fQdWs5vOd7e91-xgVRszChxEUqSJC94o/view?usp=drive_link)
-- <b>**ML Forecasting with Python**</b>
+- <b>**Forecasting with Python**</b>
   - [End to End Aviation METAR Forecasting Project](https://github.com/F00LIAN/Aviation-METAR-Forecasting)
   - [Stock Market Deep Learning Forecaster with RNNs](https://github.com/F00LIAN/stockForecaster)
-- <b>**ML NLP with Python**</b>
+- <b>**NLP and Recommendation Systems with Python**</b>
   - [Sentiment Analysis of Airlines]()
 - <b>**Data Analysis and Research with Python**</b>
   - [End-to-End Chrono24 Luxury Watch Market Analysis](https://github.com/F00LIAN/luxury_watch_market/tree/main/etl)
