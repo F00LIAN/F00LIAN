@@ -3,7 +3,7 @@
 <h2>🧑🏼‍🔬 Data Science Projects:</h2>
 
 - <b>**Data Science Consulting Work**</b>
-  - [Region Intelligence Lancaster Land Feasability Analysis](https://drive.google.com/file/d/1fQdWs5vOd7e91-xgVRszChxEUqSJC94o/view?usp=drive_link)
+  - [Region Intelligence Lancaster Land Feasibility Analysis](https://drive.google.com/file/d/1fQdWs5vOd7e91-xgVRszChxEUqSJC94o/view?usp=drive_link)
 - <b>**Forecasting with Python**</b>
   - [End to End Aviation METAR Forecasting Project](https://github.com/F00LIAN/Aviation-METAR-Forecasting)
   - [Stock Market Deep Learning Forecaster with RNNs](https://github.com/F00LIAN/stockForecaster)
