@@ -43,7 +43,7 @@
 
 <h2>✅ Certifications and Diplomas:</h2>
 
-- <b>MSBA UCI Degree: <a href="https://drive.google.com/file/d/11Hx3tvXvxoibctzkTfcIotJyLH2Br4jB/view?usp=drive_link">Credential Link</a></b>
+- <b>MS in Business Analytics UCI Degree: <a href="https://drive.google.com/file/d/11Hx3tvXvxoibctzkTfcIotJyLH2Br4jB/view?usp=drive_link">Credential Link</a></b>
 - <b>BS in Management CSUF Degree: <a href="https://drive.google.com/file/d/1NDzGqtUum1jNkH5u3Zr6XHSNVOOs1G_x/view?usp=sharing">Credential Link</a></b>
 - <b>Course Careers Information Technology Course: <a href="https://drive.google.com/file/d/1KvoX-IVTI57I1z8oMuC7pKlJ9rcLBCcH/view?usp=drive_link">Credential Link</a></b>
 - <b>Data Science Process Alliance (DSPA): <a href="https://courses.datascience-pm.com/evidence-page/?bg=4703&eid=592&uid=467">Credential Link</a></b>
