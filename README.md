@@ -1,6 +1,6 @@
 <h1>Hi, I'm Julian, a <a href="https://www.linkedin.com/in/julian-sotelo-553252173/">Data Professional</a>☺</h1>
 
-<h2>👨‍💻 IT & Cyber Security Projects:</h2>
+<h2>👨‍💻 IT & Cybersecurity Projects:</h2>
 
 - <b>**OS-Ticket Help Desk Ticketing System**</b>
   - [osTicket: Prerequisites and Installation](https://github.com/F00LIAN/osticket-prereqs)
