@@ -17,7 +17,8 @@
 <h2>📊 Data Analyst Projects:</h2>
 
 - <b>**Real Estate Acquisitions Analyst**</b>
-  - [Real Estate Financial Modeling](https://github.com/F00LIAN/osticket-prereqs)
+  - [Real Estate Financial Modeling]()
+  - [Off Balance Sheet Financing]()
 
 <h2>🧑🏼‍🔬 Data Science Projects:</h2>
 
