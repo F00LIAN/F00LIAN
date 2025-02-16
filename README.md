@@ -18,7 +18,7 @@
 
 - <b>**Real Estate Acquisitions Analyst**</b>
   - [Real Estate Financial Modeling - KAHR Real Estate]()
-  - [Off Balance Sheet Financing - A Quick Dive]()
+  - [Off Balance Sheet Financing - A Quick Dive](https://github.com/F00LIAN/Off-Balance-Sheet-Financing-Overview)
 
 <h2>🧑🏼‍🔬 Data Science Projects:</h2>
 
