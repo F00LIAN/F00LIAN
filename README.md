@@ -9,7 +9,7 @@
 - <b>**Microsoft Azure**</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/F00LIAN/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/F00LIAN/azure-network-protocols)
-- <b>**Automating Code with Raspberry Pi**</b>
+- <b>**Automating Scripts with Raspberry Pi and Linux Daemon**</b>
   - [Systemd Service Setup Project #1: Automated System Updates](https://github.com/F00LIAN/raspberrypi-systemd-automation-setup)
   - [Systemd Service Setup Project #2: Automated API Calling](https://github.com/F00LIAN/raspberrypi-streamlined-api-calls)
   - [Systemd Service Setup Project #3: Automated Database Updates](https://github.com/F00LIAN/raspberrypi-wrapping-up-systemd-service)
