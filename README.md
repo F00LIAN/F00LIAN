@@ -1,5 +1,24 @@
 <h1>Hi, I'm Julian, a <a href="https://www.linkedin.com/in/julian-sotelo-553252173/">Data Professional</a>☺</h1>
 
+<h2>👨‍💻 Information Technology Projects:</h2>
+
+- <b>**OS-Ticket Help Desk Ticketing System**</b>
+  - [osTicket: Prerequisites and Installation](https://github.com/F00LIAN/osticket-prereqs)
+  - [osTicket: Post-Installation Configuration](https://github.com/F00LIAN/osticket-post-install-config)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/F00LIAN/osticket-ticket-lifecycle)
+- <b>**Microsoft Azure**</b>
+  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/F00LIAN/configure-ad)
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/F00LIAN/azure-network-protocols)
+- <b>**Automating Code with Raspberry Pi**</b>
+  - [Systemd Service Setup Project #1: Automated System Updates](https://github.com/F00LIAN/raspberrypi-systemd-automation-setup)
+  - [Systemd Service Setup Project #2: Automated API Calling](https://github.com/F00LIAN/raspberrypi-streamlined-api-calls)
+  - [Systemd Service Setup Project #3: Automated Database Updates](https://github.com/F00LIAN/raspberrypi-wrapping-up-systemd-service)
+
+<h2>📊 Data Analyst Projects:</h2>
+
+- <b>**Real Estate Acquisitions Analyst**</b>
+  - [Real Estate Financial Modeling](https://github.com/F00LIAN/osticket-prereqs)
+
 <h2>🧑🏼‍🔬 Data Science Projects:</h2>
 
 - <b>**Data Science Consulting Work**</b>
@@ -21,20 +40,6 @@
   - [Delta Airlines Text Cleaning and Sentiment Analysis](https://github.com/F00LIAN/Delta-Airlines-Text-Analysis-With-R)
 - <b>**SPSS Projects**</b>
   - [Cardiovascular Unknown Drug Classification](https://github.com/F00LIAN/Cardiovascular-Drug-Classification-With-SPSS)
-  
-<h2>👨‍💻 Information Technology Projects:</h2>
-
-- <b>**OS-Ticket Help Desk Ticketing System**</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/F00LIAN/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/F00LIAN/osticket-post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/F00LIAN/osticket-ticket-lifecycle)
-- <b>**Microsoft Azure**</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/F00LIAN/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/F00LIAN/azure-network-protocols)
-- <b>**Automating Code with Raspberry Pi**</b>
-  - [Systemd Service Setup Project #1: Automated System Updates](https://github.com/F00LIAN/raspberrypi-systemd-automation-setup)
-  - [Systemd Service Setup Project #2: Automated API Calling](https://github.com/F00LIAN/raspberrypi-streamlined-api-calls)
-  - [Systemd Service Setup Project #3: Automated Database Updates](https://github.com/F00LIAN/raspberrypi-wrapping-up-systemd-service)
 
 <h2>🏆 Prior Work Experience Achievements:</h2>
 
