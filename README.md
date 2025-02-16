@@ -17,8 +17,8 @@
 <h2>📊 Data Analyst Projects:</h2>
 
 - <b>**Real Estate Acquisitions Analyst**</b>
-  - [Real Estate Financial Modeling]()
-  - [Off Balance Sheet Financing]()
+  - [Real Estate Financial Modeling - KAHR Real Estate]()
+  - [Off Balance Sheet Financing - A Quick Dive]()
 
 <h2>🧑🏼‍🔬 Data Science Projects:</h2>
 
