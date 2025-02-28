@@ -14,9 +14,7 @@
   - [Systemd Service Setup Project #2: Automated API Calling](https://github.com/F00LIAN/raspberrypi-streamlined-api-calls)
   - [Systemd Service Setup Project #3: Automated Database Updates](https://github.com/F00LIAN/raspberrypi-wrapping-up-systemd-service)
 - <b>**Security Operations Center Simulation**</b>
-  - [Microsoft Sentinel 2025 HoneyPot Bait]()
-  - [Systemd Service Setup Project #2: Automated API Calling](https://github.com/F00LIAN/raspberrypi-streamlined-api-calls)
-  - [Systemd Service Setup Project #3: Automated Database Updates](https://github.com/F00LIAN/raspberrypi-wrapping-up-systemd-service)
+  - [Microsoft Sentinel HomeLab SOC Honeypot](https://github.com/F00LIAN/honeypot-microsoft-sentinel)
 
 <h2>📊 Data Analyst Projects:</h2>
 
