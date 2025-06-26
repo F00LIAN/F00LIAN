@@ -19,10 +19,6 @@
 <h2>📊 Data Analyst Projects:</h2>
 
 - <b>**Real Estate Acquisitions Analyst**</b>
-  - [Real Estate Financial Modeling - KAHR Real Estate]()
-  - [Real Estate Modeling Case Study - Abacus Investments LLC]()
-  - [Real Estate Modeling Case Study - Balse Construction]()
-  - [Real Estate Modeling Case Study - Cordelia Capital]()
   - [Off Balance Sheet Financing - A Quick Dive](https://github.com/F00LIAN/Off-Balance-Sheet-Financing-Overview)
 
 <h2>🧑🏼‍🔬 Data Science Projects:</h2>
