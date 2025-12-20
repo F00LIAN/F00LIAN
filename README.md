@@ -4,7 +4,7 @@
 
 - <b>**Data Science Consulting Work**</b>
   - [Region Intelligence Lancaster Land Feasibility Analysis](https://drive.google.com/file/d/1fQdWs5vOd7e91-xgVRszChxEUqSJC94o/view?usp=drive_link)
-  - [Land Pricing/Acquisition Dashboard](https://nhs-data-frontend-v1--2.streamlit.app/) 
+  - [Land Pricing/Acquisition Dashboard](https://github.com/F00LIAN/nhs_data_frontend/tree/main) 
 - <b>**Forecasting with Python**</b>
   - [End to End Aviation METAR Forecasting Project](https://github.com/F00LIAN/Aviation-METAR-Forecasting)
   - [Stock Market Deep Learning Forecaster with RNNs](https://github.com/F00LIAN/stockForecaster)
