@@ -23,6 +23,12 @@
 - <b>**SPSS Projects**</b>
   - [Cardiovascular Unknown Drug Classification](https://github.com/F00LIAN/Cardiovascular-Drug-Classification-With-SPSS)
 
+<h2>👷🏻‍♂️ Software Engineering:</h2>
+
+- <b>**Web Crawlers**</b>
+  - [Newhomesource Residential Development Price Crawler](https://github.com/F00LIAN/nhs_data_extraction)
+  - [Fastfoodnurtrition.org Web Crawler](https://github.com/F00LIAN/food_nutrition_org_scraper)
+
 <h2>👨‍💻 IT & Cybersecurity Projects:</h2>
 
 - <b>**OS-Ticket Help Desk Ticketing System**</b>
