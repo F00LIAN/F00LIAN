@@ -1,8 +1,8 @@
 <h1>Hi, I'm Julian, a <a href="https://www.linkedin.com/in/julian-sotelo-553252173/">Data Professional</a>☺</h1>
 
-<h2>🧑🏼‍🔬 Data Science Projects:</h2>
+<h2>🧑🏼‍🔬 Data Science Work:</h2>
 
-- <b>**Data Science Consulting Work**</b>
+- <b>**Data Science Consulting**</b>
   - [Region Intelligence Lancaster Land Feasibility Analysis](https://drive.google.com/file/d/1fQdWs5vOd7e91-xgVRszChxEUqSJC94o/view?usp=drive_link)
   - [Land Pricing/Acquisition Dashboard](https://github.com/F00LIAN/nhs_data_frontend/tree/main) 
 - <b>**Forecasting with Python**</b>
@@ -23,13 +23,13 @@
 - <b>**SPSS Projects**</b>
   - [Cardiovascular Unknown Drug Classification](https://github.com/F00LIAN/Cardiovascular-Drug-Classification-With-SPSS)
 
-<h2>👷🏻‍♂️ Software Engineering:</h2>
+<h2>👷🏻‍♂️ Software Engineering Work:</h2>
 
 - <b>**Web Crawlers**</b>
   - [Newhomesource Residential Development Price Crawler](https://github.com/F00LIAN/nhs_data_extraction)
   - [Fastfoodnurtrition.org Web Crawler](https://github.com/F00LIAN/food_nutrition_org_scraper)
 
-<h2>👨‍💻 IT & Cybersecurity Projects:</h2>
+<h2>👨‍💻 IT & Cybersecurity Work:</h2>
 
 - <b>**OS-Ticket Help Desk Ticketing System**</b>
   - [osTicket: Prerequisites and Installation](https://github.com/F00LIAN/osticket-prereqs)
@@ -45,7 +45,7 @@
 - <b>**Security Operations Center Simulation**</b>
   - [Microsoft Sentinel HomeLab SOC Honeypot](https://github.com/F00LIAN/honeypot-microsoft-sentinel)
 
-<h2>📊 Data Analyst Projects:</h2>
+<h2>📊 Data Analyst Work:</h2>
 
 - <b>**Real Estate Acquisitions Analyst**</b>
   - [Off Balance Sheet Financing - A Quick Dive](https://github.com/F00LIAN/Off-Balance-Sheet-Financing-Overview)
