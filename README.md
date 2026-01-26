@@ -27,7 +27,7 @@
 
 - <b>**Web Crawlers**</b>
   - [Newhomesource Residential Development Price Crawler](https://github.com/F00LIAN/nhs_data_extraction)
-  - [Fastfoodnurtrition.org Web Crawler](https://github.com/F00LIAN/food_nutrition_org_scraper)
+  - [Fastfoodnutrition.org Web Crawler](https://github.com/F00LIAN/food_nutrition_org_scraper)
 
 <h2>👨‍💻 IT & Cybersecurity Work:</h2>
 
