@@ -2,22 +2,22 @@
 
 <h2>👷🏻‍♂️ Software Engineering Work:</h2>
 
-- <b>**IOS Development**</b>
+- <b>**Full Stack IOS Development**</b>
   - [SC Beauty Center App](https://github.com/F00LIAN/nhs_data_extraction)
   - [EateryAI App](https://github.com/F00LIAN/food_nutrition_org_scraper)
-- <b>**Web Crawlers**</b>
+- <b>**Web Crawlers/Scrapers**</b>
   - [Newhomesource Residential Development Price Crawler](https://github.com/F00LIAN/nhs_data_extraction)
   - [Fastfoodnutrition.org Web Crawler](https://github.com/F00LIAN/food_nutrition_org_scraper)
 
 <h2>🧑🏼‍🔬 Data Science/Analyst Work:</h2>
 
-- <b>**Data Science Consulting**</b>
+- <b>**Geospatial Investment Analysis & Real Time Data Streamlit Dashboarding**</b>
   - [Region Intelligence Lancaster Land Feasibility Analysis](https://drive.google.com/file/d/1fQdWs5vOd7e91-xgVRszChxEUqSJC94o/view?usp=drive_link)
   - [Land Pricing/Acquisition Dashboard](https://github.com/F00LIAN/nhs_data_frontend/tree/main) 
-- <b>**Forecasting with Python**</b>
+- <b>**Aviation Weather and Stock Market Forecasting**</b>
   - [End to End Aviation METAR Forecasting Project](https://github.com/F00LIAN/Aviation-METAR-Forecasting)
   - [Stock Market Deep Learning Forecaster with RNNs](https://github.com/F00LIAN/stockForecaster)
-- <b>**NLP and Recommendation Systems with Python**</b>
+- <b>**NLP Recommendation Systems with Embedded Vector Search**</b>
   - [Recipe Recommendation System](https://github.com/F00LIAN/Recipe-Recommender-System)
   - [EateryAI Restaurant Meal Recommendation System](https://github.com/F00LIAN/Recipe-Recommender-System)
 - <b>**Data Analysis and Research with Python**</b>
