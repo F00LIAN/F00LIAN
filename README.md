@@ -24,7 +24,9 @@
   - [Cardiovascular Unknown Drug Classification](https://github.com/F00LIAN/Cardiovascular-Drug-Classification-With-SPSS)
 
 <h2>👷🏻‍♂️ Software Engineering Work:</h2>
-
+- <b>**IOS Development**</b>
+ - [SC Beauty Center App](https://github.com/F00LIAN/nhs_data_extraction)
+ - [EateryAI App](https://github.com/F00LIAN/food_nutrition_org_scraper)
 - <b>**Web Crawlers**</b>
   - [Newhomesource Residential Development Price Crawler](https://github.com/F00LIAN/nhs_data_extraction)
   - [Fastfoodnutrition.org Web Crawler](https://github.com/F00LIAN/food_nutrition_org_scraper)
