@@ -1,5 +1,14 @@
 <h1>Hi, I'm Julian, a <a href="https://www.linkedin.com/in/julian-sotelo-553252173/">Data Professional</a>☺</h1>
 
+<h2>👷🏻‍♂️ Software Engineering Work:</h2>
+
+- <b>**IOS Development**</b>
+  - [SC Beauty Center App](https://github.com/F00LIAN/nhs_data_extraction)
+  - [EateryAI App](https://github.com/F00LIAN/food_nutrition_org_scraper)
+- <b>**Web Crawlers**</b>
+  - [Newhomesource Residential Development Price Crawler](https://github.com/F00LIAN/nhs_data_extraction)
+  - [Fastfoodnutrition.org Web Crawler](https://github.com/F00LIAN/food_nutrition_org_scraper)
+
 <h2>🧑🏼‍🔬 Data Science/Analyst Work:</h2>
 
 - <b>**Data Science Consulting**</b>
@@ -9,11 +18,9 @@
   - [End to End Aviation METAR Forecasting Project](https://github.com/F00LIAN/Aviation-METAR-Forecasting)
   - [Stock Market Deep Learning Forecaster with RNNs](https://github.com/F00LIAN/stockForecaster)
 - <b>**NLP and Recommendation Systems with Python**</b>
-  - [Sentiment Analysis of Airlines (Adding Soon)]()
-  - [Amazon Food Reviews Analysis (Adding Soon)]()
   - [Recipe Recommendation System](https://github.com/F00LIAN/Recipe-Recommender-System)
+  - [EateryAI Restaurant Meal Recommendation System](https://github.com/F00LIAN/Recipe-Recommender-System)
 - <b>**Data Analysis and Research with Python**</b>
-  - [End-to-End Chrono24 Luxury Watch Market Analysis](https://github.com/F00LIAN/luxury_watch_market)
   - [Cincinatti Reds 2024 Hackathon Challenge](https://github.com/F00LIAN/Reds_Pitching_Hackathon_Team_Mendoza_Line)
 - <b>**R Projects**</b>
   - [Auto Manufacturer Customer Segmentation Using Clustering](https://github.com/F00LIAN/Auto-Manufacturer-Customer-Segmentation-With-R)
@@ -22,14 +29,6 @@
   - [Delta Airlines Text Cleaning and Sentiment Analysis](https://github.com/F00LIAN/Delta-Airlines-Text-Analysis-With-R)
 - <b>**SPSS Projects**</b>
   - [Cardiovascular Unknown Drug Classification](https://github.com/F00LIAN/Cardiovascular-Drug-Classification-With-SPSS)
-
-<h2>👷🏻‍♂️ Software Engineering Work:</h2>
-- <b>**IOS Development**</b>
- - [SC Beauty Center App](https://github.com/F00LIAN/nhs_data_extraction)
- - [EateryAI App](https://github.com/F00LIAN/food_nutrition_org_scraper)
-- <b>**Web Crawlers**</b>
-  - [Newhomesource Residential Development Price Crawler](https://github.com/F00LIAN/nhs_data_extraction)
-  - [Fastfoodnutrition.org Web Crawler](https://github.com/F00LIAN/food_nutrition_org_scraper)
 
 <h2>👨‍💻 IT & Cybersecurity Work:</h2>
 
