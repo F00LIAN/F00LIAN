@@ -2,7 +2,7 @@
 
 <h2>👷🏻‍♂️ Software Engineering Work:</h2>
 
-- <b>**Full Stack IOS Development**</b>
+- <b>**Full Stack IOS/Android Development**</b>
   - [SC Beauty Center App](https://github.com/F00LIAN/nhs_data_extraction)
   - [EateryAI App](https://github.com/F00LIAN/food_nutrition_org_scraper)
 - <b>**Web Crawlers/Scrapers**</b>
