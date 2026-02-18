@@ -1,102 +1,101 @@
-# Hi, I'm Julian Sotelo 👋
-Data + Mobile Engineer building production-ready apps and AI systems.  
+<h1>Hi, I'm Julian Sotelo 👋</h1>
+
+<p>
+<b>Data, Mobile, and Security Engineer</b> building production-ready mobile applications, scalable backend systems, and AI-driven recommendation platforms.
+</p>
 
 ---
 
-## 🚀 Featured: Mobile Apps + AI Engineering
+## 🚀 Featured Mobile & AI Engineering Work
 
-### 📱 Mobile Development (iOS/Android)
-**SC Beauty Center App**  
-- End-to-end mobile app focused on booking, services, and customer experience.  
-- Tech: iOS/Android (Capacitor/React Native/Flutter), Auth, backend + database  
-- Repo: https://github.com/F00LIAN/nhs_data_extraction
+### 📱 SC Beauty Center Mobile Application
+End-to-end iOS/Android application enabling procedure discovery, booking workflows, and client engagement.
 
-**EateryAI App**  
-- Consumer app + data pipeline powering nutrition search and meal recommendations.  
-- Tech: mobile app + API + database + embeddings/vector search  
-- Repo: https://github.com/F00LIAN/food_nutrition_org_scraper
-
-### 🧠 AI Engineering (ML, NLP, Forecasting, Recommenders)
-**EateryAI Restaurant Meal Recommendation System**  
-- Embeddings + recommendation workflow for restaurant meals.  
-- Tech: NLP, vector search, ranking  
-- Repo: https://github.com/F00LIAN/Recipe-Recommender-System
-
-**Aviation METAR Forecasting (End-to-End)**  
-- Time-series forecasting pipeline for aviation weather (METAR).  
-- Tech: RNN/GRU/LSTM, data ingestion, training + evaluation  
-- Repo: https://github.com/F00LIAN/Aviation-METAR-Forecasting
+**Focus Areas**
+- Mobile product architecture
+- Authentication + booking workflows
+- API integrations and production deployment
 
 ---
 
-## 🧰 Engineering Systems (Data Pipelines, Crawlers, Dashboards)
+### 🧠 EateryAI Backend Platform (Private Repository)
 
-### 🕷️ Web Crawlers / Scrapers
-- **Newhomesource Residential Development Price Crawler**  
-  https://github.com/F00LIAN/nhs_data_extraction  
-- **Fastfoodnutrition.org Web Crawler**  
-  https://github.com/F00LIAN/food_nutrition_org_scraper
+⚠️ Due to NDA restrictions, the production backend source code is maintained in a private repository.  
+The following demo illustrates system capabilities.
 
-### 🗺️ Geospatial + Streamlit Dashboards
-- **Region Intelligence: Lancaster Land Feasibility Analysis (Report)**  
-  https://drive.google.com/file/d/1fQdWs5vOd7e91-xgVRszChxEUqSJC94o/view?usp=drive_link  
-- **Land Pricing / Acquisition Dashboard**  
+#### Application Demo
+*(Upload your .mp4 directly into the README and GitHub will auto-generate the link)*
+
+VIDEO_LINK_HERE
+
+#### Platform Capabilities
+- Large-scale restaurant and nutrition dataset ingestion
+- Semantic embedding generation for meals and ingredients
+- AI-driven recommendation and ranking engine
+- Real-time API delivery for mobile applications
+
+#### Architecture Highlights
+- FastAPI microservice backend
+- Vector embedding and semantic search pipelines
+- PostgreSQL / MongoDB hybrid data layer
+- Automated ingestion and deployment workflows
+
+**Ownership:** Designed ingestion pipelines, recommendation logic, vector search architecture, and production API deployment.
+
+---
+
+## 🧰 Engineering & Data Systems
+
+### Geospatial Investment Analytics & Dashboards
+- Region Intelligence Lancaster Land Feasibility Analysis  
+  https://drive.google.com/file/d/1fQdWs5vOd7e91-xgVRszChxEUqSJC94o/view
+- Land Pricing / Acquisition Dashboard  
   https://github.com/F00LIAN/nhs_data_frontend/tree/main
 
-### 📈 Forecasting + Quant Projects
-- **Stock Market Deep Learning Forecaster**  
+### Forecasting & AI Modeling
+- Aviation METAR Forecasting (RNN / GRU / LSTM)  
+  https://github.com/F00LIAN/Aviation-METAR-Forecasting
+- Stock Market Deep Learning Forecaster  
   https://github.com/F00LIAN/stockForecaster
 
-### 📊 Data Analysis (Python / R / SPSS)
-- **Cincinnati Reds 2024 Hackathon Challenge**  
-  https://github.com/F00LIAN/Reds_Pitching_Hackathon_Team_Mendoza_Line  
-- **R Projects (Clustering, Regression, Time Series, NLP)**  
-  - https://github.com/F00LIAN/Auto-Manufacturer-Customer-Segmentation-With-R  
-  - https://github.com/F00LIAN/Real-Estate-Regression-Analysis-Using-R  
-  - https://github.com/F00LIAN/Visualizing-Data-With-R  
-  - https://github.com/F00LIAN/Delta-Airlines-Text-Analysis-With-R  
-- **SPSS: Cardiovascular Unknown Drug Classification**  
-  https://github.com/F00LIAN/Cardiovascular-Drug-Classification-With-SPSS
+### NLP & Recommendation Systems
+- Recipe Recommendation System  
+  https://github.com/F00LIAN/Recipe-Recommender-System
+
+### Data Engineering & Crawlers
+- Newhomesource Development Price Crawler  
+  https://github.com/F00LIAN/nhs_data_extraction
+- Fastfoodnutrition.org Web Crawler  
+  https://github.com/F00LIAN/food_nutrition_org_scraper
 
 ---
 
-## 🛡️ IT + Cybersecurity
-- **osTicket Help Desk Ticketing System**
-  - https://github.com/F00LIAN/osticket-prereqs
-  - https://github.com/F00LIAN/osticket-post-install-config
-  - https://github.com/F00LIAN/osticket-ticket-lifecycle
-- **Microsoft Azure Labs**
-  - https://github.com/F00LIAN/configure-ad
-  - https://github.com/F00LIAN/azure-network-protocols
-- **Raspberry Pi + systemd automation**
-  - https://github.com/F00LIAN/raspberrypi-systemd-automation-setup
-  - https://github.com/F00LIAN/raspberrypi-streamlined-api-calls
-  - https://github.com/F00LIAN/raspberrypi-wrapping-up-systemd-service
-- **SOC Simulation**
-  - https://github.com/F00LIAN/honeypot-microsoft-sentinel
+## 🛡️ IT, Cloud & Security Engineering
+- osTicket Help Desk Deployment Labs  
+- Azure Active Directory + Network Security Labs  
+- Raspberry Pi systemd Automation Projects  
+- Microsoft Sentinel SOC Honeypot Simulation  
+
+(Repositories available in profile)
 
 ---
 
-## 🏆 Highlights
-- **Best UC Irvine Capstone Visualizations Award (2023)**  
-  https://youtu.be/oKuI605eEZc  
-- **OC Business Journal Recognition (Octane OC)**  
+## 🏆 Recognition
+- UC Irvine Best Capstone Visualization Award (2023)  
+  https://youtu.be/oKuI605eEZc
+- Orange County Business Journal ML Recognition  
   https://www.ocbj.com/oc-homepage/ai-program-predicts-capital-raising-success/
 
 ---
 
-## ✅ Certifications + Degrees
-- **M.S. Business Analytics (UC Irvine)**  
-  https://drive.google.com/file/d/11Hx3tvXvxoibctzkTfcIotJyLH2Br4jB/view?usp=drive_link  
-- **B.S. Management (CSU Fresno)**  
-  https://drive.google.com/file/d/1NDzGqtUum1jNkH5u3Zr6XHSNVOOs1G_x/view?usp=sharing  
-- **Course Careers: Information Technology**  
-  https://drive.google.com/file/d/1KvoX-IVTI57I1z8oMuC7pKlJ9rcLBCcH/view?usp=drive_link  
-- **Data Science Process Alliance (DSPA)**  
-  https://courses.datascience-pm.com/evidence-page/?bg=4703&eid=592&uid=467
+## 🎓 Education & Certifications
+- M.S. Business Analytics — UC Irvine
+- B.S. Business Management — CSU Fresno
+- Data Science Process Alliance Certification
+- Course Careers IT Certification
 
 ---
 
 ## 🤝 Connect
-- LinkedIn: https://www.linkedin.com/in/julian-sotelo-553252173/
+LinkedIn: https://www.linkedin.com/in/julian-sotelo-553252173/
 
