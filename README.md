@@ -13,15 +13,13 @@ I specialize in **production ML pipelines, vector search recommendation systems,
 - Secure OAuth authentication (Apple / Google Sign-In)
 - Appointment booking workflows and procedure catalog system
 - Backend infrastructure designed for CRM and analytics expansion
-- Repository:  
-  https://github.com/F00LIAN/nhs_data_extraction
+- Repository: https://github.com/F00LIAN/nhs_data_extraction
 
 ### EateryAI — AI Nutrition & Meal Recommendation Platform
 - AI-driven restaurant meal recommendation engine
 - Vector embedding search + geospatial matching
 - Large-scale nutrition ingestion pipelines
-- Repository:  
-  https://github.com/F00LIAN/food_nutrition_org_scraper
+- Repository: https://github.com/F00LIAN/food_nutrition_org_scraper
 
 --- 
 
