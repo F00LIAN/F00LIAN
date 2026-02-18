@@ -1,65 +1,102 @@
-<h1>Hi, I'm Julian, a <a href="https://www.linkedin.com/in/julian-sotelo-553252173/">Data Professional</a>☺</h1>
+# Hi, I'm Julian Sotelo 👋
+Data + Mobile Engineer building production-ready apps and AI systems.  
 
-<h2>👷🏻‍♂️ Software Engineering Work:</h2>
+---
 
-- <b>**Full Stack IOS/Android Development**</b>
-  - [SC Beauty Center App](https://github.com/F00LIAN/nhs_data_extraction)
-  - [EateryAI App](https://github.com/F00LIAN/food_nutrition_org_scraper)
-- <b>**Web Crawlers/Scrapers**</b>
-  - [Newhomesource Residential Development Price Crawler](https://github.com/F00LIAN/nhs_data_extraction)
-  - [Fastfoodnutrition.org Web Crawler](https://github.com/F00LIAN/food_nutrition_org_scraper)
+## 🚀 Featured: Mobile Apps + AI Engineering
 
-<h2>🧑🏼‍🔬 Data Science/Analyst Work:</h2>
+### 📱 Mobile Development (iOS/Android)
+**SC Beauty Center App**  
+- End-to-end mobile app focused on booking, services, and customer experience.  
+- Tech: iOS/Android (Capacitor/React Native/Flutter), Auth, backend + database  
+- Repo: https://github.com/F00LIAN/nhs_data_extraction
 
-- <b>**Geospatial Investment Analysis & Real Time Data Streamlit Dashboarding**</b>
-  - [Region Intelligence Lancaster Land Feasibility Analysis](https://drive.google.com/file/d/1fQdWs5vOd7e91-xgVRszChxEUqSJC94o/view?usp=drive_link)
-  - [Land Pricing/Acquisition Dashboard](https://github.com/F00LIAN/nhs_data_frontend/tree/main) 
-- <b>**Aviation Weather and Stock Market Forecasting**</b>
-  - [End to End Aviation METAR Forecasting Project](https://github.com/F00LIAN/Aviation-METAR-Forecasting)
-  - [Stock Market Deep Learning Forecaster with RNNs](https://github.com/F00LIAN/stockForecaster)
-- <b>**NLP Recommendation Systems with Embedded Vector Search**</b>
-  - [Recipe Recommendation System](https://github.com/F00LIAN/Recipe-Recommender-System)
-  - [EateryAI Restaurant Meal Recommendation System](https://github.com/F00LIAN/Recipe-Recommender-System)
-- <b>**Data Analysis and Research with Python**</b>
-  - [Cincinatti Reds 2024 Hackathon Challenge](https://github.com/F00LIAN/Reds_Pitching_Hackathon_Team_Mendoza_Line)
-- <b>**R Projects**</b>
-  - [Auto Manufacturer Customer Segmentation Using Clustering](https://github.com/F00LIAN/Auto-Manufacturer-Customer-Segmentation-With-R)
-  - [Regression Analysis on Real Estate Transactions](https://github.com/F00LIAN/Real-Estate-Regression-Analysis-Using-R)
-  - [Visualizing Various Time Series Data](https://github.com/F00LIAN/Visualizing-Data-With-R)
-  - [Delta Airlines Text Cleaning and Sentiment Analysis](https://github.com/F00LIAN/Delta-Airlines-Text-Analysis-With-R)
-- <b>**SPSS Projects**</b>
-  - [Cardiovascular Unknown Drug Classification](https://github.com/F00LIAN/Cardiovascular-Drug-Classification-With-SPSS)
+**EateryAI App**  
+- Consumer app + data pipeline powering nutrition search and meal recommendations.  
+- Tech: mobile app + API + database + embeddings/vector search  
+- Repo: https://github.com/F00LIAN/food_nutrition_org_scraper
 
-<h2>👨‍💻 IT & Cybersecurity Work:</h2>
+### 🧠 AI Engineering (ML, NLP, Forecasting, Recommenders)
+**EateryAI Restaurant Meal Recommendation System**  
+- Embeddings + recommendation workflow for restaurant meals.  
+- Tech: NLP, vector search, ranking  
+- Repo: https://github.com/F00LIAN/Recipe-Recommender-System
 
-- <b>**OS-Ticket Help Desk Ticketing System**</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/F00LIAN/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/F00LIAN/osticket-post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/F00LIAN/osticket-ticket-lifecycle)
-- <b>**Microsoft Azure**</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/F00LIAN/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/F00LIAN/azure-network-protocols)
-- <b>**Automating Scripts with Raspberry Pi and Linux Daemon**</b>
-  - [Systemd Service Setup Project #1: Automated System Updates](https://github.com/F00LIAN/raspberrypi-systemd-automation-setup)
-  - [Systemd Service Setup Project #2: Automated API Calling](https://github.com/F00LIAN/raspberrypi-streamlined-api-calls)
-  - [Systemd Service Setup Project #3: Automated Database Updates](https://github.com/F00LIAN/raspberrypi-wrapping-up-systemd-service)
-- <b>**Security Operations Center Simulation**</b>
-  - [Microsoft Sentinel HomeLab SOC Honeypot](https://github.com/F00LIAN/honeypot-microsoft-sentinel)
+**Aviation METAR Forecasting (End-to-End)**  
+- Time-series forecasting pipeline for aviation weather (METAR).  
+- Tech: RNN/GRU/LSTM, data ingestion, training + evaluation  
+- Repo: https://github.com/F00LIAN/Aviation-METAR-Forecasting
 
-<h2>🏆 Prior Work Experience Achievements:</h2>
+---
 
-- <b>Best UC Irvine Capstone Visualizations Award 2023: <a href="https://youtu.be/oKuI605eEZc">Tableau Video</a></b>
-- <b>Orange County Business Journal ML News Recognition for Octane OC: <a href="https://www.ocbj.com/oc-homepage/ai-program-predicts-capital-raising-success/">News Article</b>
+## 🧰 Engineering Systems (Data Pipelines, Crawlers, Dashboards)
 
-<h2>✅ Certifications and Diplomas:</h2>
+### 🕷️ Web Crawlers / Scrapers
+- **Newhomesource Residential Development Price Crawler**  
+  https://github.com/F00LIAN/nhs_data_extraction  
+- **Fastfoodnutrition.org Web Crawler**  
+  https://github.com/F00LIAN/food_nutrition_org_scraper
 
-- <b>MS in Business Analytics UCI Degree: <a href="https://drive.google.com/file/d/11Hx3tvXvxoibctzkTfcIotJyLH2Br4jB/view?usp=drive_link">Credential Link</a></b>
-- <b>BS in Management CSUF Degree: <a href="https://drive.google.com/file/d/1NDzGqtUum1jNkH5u3Zr6XHSNVOOs1G_x/view?usp=sharing">Credential Link</a></b>
-- <b>Course Careers Information Technology Course: <a href="https://drive.google.com/file/d/1KvoX-IVTI57I1z8oMuC7pKlJ9rcLBCcH/view?usp=drive_link">Credential Link</a></b>
-- <b>Data Science Process Alliance (DSPA): <a href="https://courses.datascience-pm.com/evidence-page/?bg=4703&eid=592&uid=467">Credential Link</a></b>
+### 🗺️ Geospatial + Streamlit Dashboards
+- **Region Intelligence: Lancaster Land Feasibility Analysis (Report)**  
+  https://drive.google.com/file/d/1fQdWs5vOd7e91-xgVRszChxEUqSJC94o/view?usp=drive_link  
+- **Land Pricing / Acquisition Dashboard**  
+  https://github.com/F00LIAN/nhs_data_frontend/tree/main
 
-<h2>🤳Connect with me:</h2>
+### 📈 Forecasting + Quant Projects
+- **Stock Market Deep Learning Forecaster**  
+  https://github.com/F00LIAN/stockForecaster
 
-[<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+### 📊 Data Analysis (Python / R / SPSS)
+- **Cincinnati Reds 2024 Hackathon Challenge**  
+  https://github.com/F00LIAN/Reds_Pitching_Hackathon_Team_Mendoza_Line  
+- **R Projects (Clustering, Regression, Time Series, NLP)**  
+  - https://github.com/F00LIAN/Auto-Manufacturer-Customer-Segmentation-With-R  
+  - https://github.com/F00LIAN/Real-Estate-Regression-Analysis-Using-R  
+  - https://github.com/F00LIAN/Visualizing-Data-With-R  
+  - https://github.com/F00LIAN/Delta-Airlines-Text-Analysis-With-R  
+- **SPSS: Cardiovascular Unknown Drug Classification**  
+  https://github.com/F00LIAN/Cardiovascular-Drug-Classification-With-SPSS
 
-[linkedin]: https://www.linkedin.com/in/julian-sotelo-553252173/
+---
+
+## 🛡️ IT + Cybersecurity
+- **osTicket Help Desk Ticketing System**
+  - https://github.com/F00LIAN/osticket-prereqs
+  - https://github.com/F00LIAN/osticket-post-install-config
+  - https://github.com/F00LIAN/osticket-ticket-lifecycle
+- **Microsoft Azure Labs**
+  - https://github.com/F00LIAN/configure-ad
+  - https://github.com/F00LIAN/azure-network-protocols
+- **Raspberry Pi + systemd automation**
+  - https://github.com/F00LIAN/raspberrypi-systemd-automation-setup
+  - https://github.com/F00LIAN/raspberrypi-streamlined-api-calls
+  - https://github.com/F00LIAN/raspberrypi-wrapping-up-systemd-service
+- **SOC Simulation**
+  - https://github.com/F00LIAN/honeypot-microsoft-sentinel
+
+---
+
+## 🏆 Highlights
+- **Best UC Irvine Capstone Visualizations Award (2023)**  
+  https://youtu.be/oKuI605eEZc  
+- **OC Business Journal Recognition (Octane OC)**  
+  https://www.ocbj.com/oc-homepage/ai-program-predicts-capital-raising-success/
+
+---
+
+## ✅ Certifications + Degrees
+- **M.S. Business Analytics (UC Irvine)**  
+  https://drive.google.com/file/d/11Hx3tvXvxoibctzkTfcIotJyLH2Br4jB/view?usp=drive_link  
+- **B.S. Management (CSU Fresno)**  
+  https://drive.google.com/file/d/1NDzGqtUum1jNkH5u3Zr6XHSNVOOs1G_x/view?usp=sharing  
+- **Course Careers: Information Technology**  
+  https://drive.google.com/file/d/1KvoX-IVTI57I1z8oMuC7pKlJ9rcLBCcH/view?usp=drive_link  
+- **Data Science Process Alliance (DSPA)**  
+  https://courses.datascience-pm.com/evidence-page/?bg=4703&eid=592&uid=467
+
+---
+
+## 🤝 Connect
+- LinkedIn: https://www.linkedin.com/in/julian-sotelo-553252173/
+
