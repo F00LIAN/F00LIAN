@@ -8,9 +8,6 @@ I specialize in **production ML pipelines, vector search recommendation systems,
 
 <h2> 📱 Featured Production Mobile Platforms </h2>
 
-### SoCal Surgical Center — Full Stack Surgical Center Platform
-- [SoCal Surgery Center Mobile App Showcase](https://github.com/F00LIAN/socal_surgery_center_showcase)
-
 ### EateryAI — AI Nutrition & Meal Recommendation Platform
 - [EateryAI Mobile App Showcase](https://github.com/F00LIAN/eatery-mobile-app-showcase)
 
@@ -19,6 +16,8 @@ I specialize in **production ML pipelines, vector search recommendation systems,
 <h2>🧑🏼‍🔬 Data Science & Machine Learning</h2>
 
 ### Geospatial Investment Analysis & Real Time Data Streamlit Dashboarding
+- Option Pricing & Volatility Dashboard
+
 - Consulting Client Experience and Discovery
   - [Region Intelligence Lancaster Land Feasibility Analysis](https://drive.google.com/file/d/1fQdWs5vOd7e91-xgVRszChxEUqSJC94o/view?usp=drive_link)
   - [Land Pricing/Acquisition Dashboard](https://github.com/F00LIAN/nhs_data_frontend/tree/main)
