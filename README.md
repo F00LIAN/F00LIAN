@@ -9,17 +9,10 @@ I specialize in **production ML pipelines, vector search recommendation systems,
 <h2> 📱 Featured Production Mobile Platforms </h2>
 
 ### SoCal Surgical Center — Full Stack Surgical Center Platform
-- Cross-platform iOS / Android application (Flutter + Supabase)
-- Secure OAuth authentication (Apple / Google Sign-In)
-- Appointment booking workflows and procedure catalog system
-- Backend infrastructure designed for CRM and analytics expansion
-- Repository: https://github.com/F00LIAN/nhs_data_extraction
+- [SoCal Surgery Center Mobile App Showcase](https://github.com/F00LIAN/socal_surgery_center_showcase)
 
 ### EateryAI — AI Nutrition & Meal Recommendation Platform
-- AI-driven restaurant meal recommendation engine
-- Vector embedding search + geospatial matching
-- Large-scale nutrition ingestion pipelines
-- Repository: https://github.com/F00LIAN/food_nutrition_org_scraper
+- [EateryAI Mobile App Showcase](https://github.com/F00LIAN/eatery-mobile-app-showcase)
 
 --- 
 
