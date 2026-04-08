@@ -16,17 +16,38 @@ I specialize in **production ML pipelines, vector search recommendation systems,
 
 --- 
 
+<h2>🧑🏼‍🔬 Data Science & Machine Learning</h2>
 
-<h2>👷🏻‍♂️ Software Engineering Work:</h2>
+### Geospatial Investment Analysis & Real Time Data Streamlit Dashboarding
+- Consulting Client Experience and Discovery
+  - [Region Intelligence Lancaster Land Feasibility Analysis](https://drive.google.com/file/d/1fQdWs5vOd7e91-xgVRszChxEUqSJC94o/view?usp=drive_link)
+  - [Land Pricing/Acquisition Dashboard](https://github.com/F00LIAN/nhs_data_frontend/tree/main)
 
-### EateryAI Restaurant B2B AI CRM
-- [EateryAI Restaurant B2B CRM](https://github.com/F00LIAN/nhs_data_extraction) 
-### Socal Surgical Center CRM (In Progress)
-- [SoCal Surgical Center CRM (Coming Soon)]()
+### Forecasting Systems
+- <b>**Aviation Weather and Stock Market Forecasting**</b>
+  - [End to End Aviation METAR Forecasting Project](https://github.com/F00LIAN/Aviation-METAR-Forecasting)
+  - [Stock Market Deep Learning Forecaster with RNNs](https://github.com/F00LIAN/stockForecaster)
 
-### Web Crawlers/Scrapers
-- [Newhomesource Residential Development Price Crawler](https://github.com/F00LIAN/nhs_data_extraction)
-- [Fastfoodnutrition.org Web Crawler](https://github.com/F00LIAN/food_nutrition_org_scraper)
+### NLP & Vector Search Recommendation Systems
+- <b>**NLP Recommendation Systems with Embedded Vector Search**</b>
+  - [Recipe Recommendation System](https://github.com/F00LIAN/Recipe-Recommender-System)
+  - [EateryAI Restaurant Meal Recommendation System](https://github.com/F00LIAN/Recipe-Recommender-System)
+
+### Analytics & Research Projects 
+- <b>**Data Analysis and Research with Python**</b>
+  - [Cincinatti Reds 2024 Hackathon Challenge](https://github.com/F00LIAN/Reds_Pitching_Hackathon_Team_Mendoza_Line)
+ 
+---
+
+<h2>📊 Data Analysis Projects (R / SPSS)</h2>
+
+- <b>**R Projects**</b>
+  - [Auto Manufacturer Customer Segmentation Using Clustering](https://github.com/F00LIAN/Auto-Manufacturer-Customer-Segmentation-With-R)
+  - [Regression Analysis on Real Estate Transactions](https://github.com/F00LIAN/Real-Estate-Regression-Analysis-Using-R)
+  - [Visualizing Various Time Series Data](https://github.com/F00LIAN/Visualizing-Data-With-R)
+  - [Delta Airlines Text Cleaning and Sentiment Analysis](https://github.com/F00LIAN/Delta-Airlines-Text-Analysis-With-R)
+- <b>**SPSS Projects**</b>
+  - [Cardiovascular Unknown Drug Classification](https://github.com/F00LIAN/Cardiovascular-Drug-Classification-With-SPSS)
 
 ---
 
@@ -51,38 +72,14 @@ I specialize in **production ML pipelines, vector search recommendation systems,
 
 ---
 
-<h2>🧑🏼‍🔬 Data Science & Machine Learning</h2>
+<h2>👷🏻‍♂️ Software Engineering Work:</h2>
 
-### Geospatial Investment Analysis & Real Time Data Streamlit Dashboarding
-- Consulting Client Experience and Discovery
-  - [Region Intelligence Lancaster Land Feasibility Analysis](https://drive.google.com/file/d/1fQdWs5vOd7e91-xgVRszChxEUqSJC94o/view?usp=drive_link)
-  - [Land Pricing/Acquisition Dashboard](https://github.com/F00LIAN/nhs_data_frontend/tree/main)
+### EateryAI Restaurant B2B AI CRM
+- [EateryAI Restaurant B2B CRM](https://github.com/F00LIAN/nhs_data_extraction) 
 
-### Forecasting Systems
-- <b>**Aviation Weather and Stock Market Forecasting**</b>
-  - [End to End Aviation METAR Forecasting Project](https://github.com/F00LIAN/Aviation-METAR-Forecasting)
-  - [Stock Market Deep Learning Forecaster with RNNs](https://github.com/F00LIAN/stockForecaster)
-
-### NLP & Vector Search Recommendation Systems
-- <b>**NLP Recommendation Systems with Embedded Vector Search**</b>
-  - [Recipe Recommendation System](https://github.com/F00LIAN/Recipe-Recommender-System)
-  - [EateryAI Restaurant Meal Recommendation System](https://github.com/F00LIAN/Recipe-Recommender-System)
-
-### Analytics & Research Projects 
-- <b>**Data Analysis and Research with Python**</b>
-  - [Cincinatti Reds 2024 Hackathon Challenge](https://github.com/F00LIAN/Reds_Pitching_Hackathon_Team_Mendoza_Line)
-
----
-
-<h2>📊 Data Analysis Projects (R / SPSS)</h2>
-
-- <b>**R Projects**</b>
-  - [Auto Manufacturer Customer Segmentation Using Clustering](https://github.com/F00LIAN/Auto-Manufacturer-Customer-Segmentation-With-R)
-  - [Regression Analysis on Real Estate Transactions](https://github.com/F00LIAN/Real-Estate-Regression-Analysis-Using-R)
-  - [Visualizing Various Time Series Data](https://github.com/F00LIAN/Visualizing-Data-With-R)
-  - [Delta Airlines Text Cleaning and Sentiment Analysis](https://github.com/F00LIAN/Delta-Airlines-Text-Analysis-With-R)
-- <b>**SPSS Projects**</b>
-  - [Cardiovascular Unknown Drug Classification](https://github.com/F00LIAN/Cardiovascular-Drug-Classification-With-SPSS)
+### Web Crawlers/Scrapers
+- [Newhomesource Residential Development Price Crawler](https://github.com/F00LIAN/nhs_data_extraction)
+- [Fastfoodnutrition.org Web Crawler](https://github.com/F00LIAN/food_nutrition_org_scraper)
 
 ---
 
