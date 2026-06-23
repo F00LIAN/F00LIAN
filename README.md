@@ -6,11 +6,16 @@ Engineer focused on building **AI-driven mobile platforms, scalable data systems
 I specialize in **production ML pipelines, vector search recommendation systems, distributed mobile applications, and Linux/cloud security engineering** across Azure, GCP, and hybrid environments.
 
 
-<h2> 📱 Featured Production Mobile Platforms </h2>
+<h2> 📱 Featured Production Platforms </h2>
 
 ### EateryAI — AI Nutrition & Meal Recommendation Platform
 - [EateryAI Mobile App Showcase](https://github.com/F00LIAN/eatery-mobile-app-showcase)
 
+### Schneider Electric - Feedback Recorder 
+- [Dcdv]()
+
+### Traba - AI Tailored Job Search with HR Connections
+- [Dcdv]()
 --- 
 
 <h2>🧑🏼‍🔬 Data Science & Machine Learning</h2>
