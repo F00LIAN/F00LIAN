@@ -11,11 +11,12 @@ I specialize in **production ML pipelines, vector search recommendation systems,
 ### EateryAI — AI Nutrition & Meal Recommendation Platform
 - [EateryAI Mobile App Showcase](https://github.com/F00LIAN/eatery-mobile-app-showcase)
 
-### Schneider Electric - Feedback Recorder 
-- [Dcdv]()
+### Schneider Electric - Feedback Recorder Business Development App
+- [SE Bizdev App](https://github.com/F00LIAN/se_bizdev_app)
 
 ### Traba - AI Tailored Job Search with HR Connections
-- [Dcdv]()
+- [Traba Frontend](https://github.com/F00LIAN/traba-frontend)
+- [Traba Backend](https://github.com/F00LIAN/traba-api)
 --- 
 
 <h2>🧑🏼‍🔬 Data Science & Machine Learning</h2>
